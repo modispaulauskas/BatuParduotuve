@@ -10,6 +10,7 @@ namespace BatuParduotuve
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
