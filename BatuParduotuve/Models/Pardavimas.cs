@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BatuParduotuve.Models
 {
-    class Pardavimai
+    public class Pardavimas
     {
         [Key]
         public int Id { get; set; }

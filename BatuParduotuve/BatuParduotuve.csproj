@@ -53,9 +53,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\Batai.cs" />
-    <Compile Include="Models\BatuDydziai.cs" />
-    <Compile Include="Models\Pardavimai.cs" />
+    <Compile Include="Models\Batas.cs" />
+    <Compile Include="Models\BatuDydis.cs" />
+    <Compile Include="Models\Pardavimas.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BatuParduotuve.Models
 {
-    public class Batai
+    public class Batas
     {
         [Key]
         public int Id { get; set; }
