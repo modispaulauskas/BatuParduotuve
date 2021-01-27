@@ -14,6 +14,7 @@ namespace BatuParduotuve.Models
         public string BatuPavadinimas { get; set; }
         public string BatuRusis { get; set; }
         public decimal Kaina { get; set; }
+        public List<BatuDydis> BatuDydis { get; set; }
 
         public void PirktiBatus(string butuRusis, int dydis, int poruKiekis)
         {
