@@ -13,7 +13,7 @@ namespace BatuParduotuve.Models
         public int Id { get; set; }
         public string BatuPavadinimas { get; set; }
         public string BatuRusis { get; set; }
-        public double Kaina { get; set; }
+        public decimal Kaina { get; set; }
 
         public void PirktiBatus(string butuRusis, int dydis, int poruKiekis)
         {
